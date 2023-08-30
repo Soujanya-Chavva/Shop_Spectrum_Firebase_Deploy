@@ -1,0 +1,78 @@
+.register {
+    border: 3px solid;
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    margin-top: 8%;
+    border-radius: 0.5rem;
+
+}
+
+
+.UsernameInput {
+    margin-bottom: 10px;
+    width: 250px;
+    color: black;
+    height: 25px
+}
+
+.PasswordInput {
+    margin-bottom: 10px;
+    width: 250px;
+    color: black;
+    height: 25px
+}
+
+.EmailInput {
+    margin-bottom: 10px;
+    width: 250px;
+    color: black;
+    height: 25px
+}
+
+.AddressInput {
+    margin-bottom: 10px;
+    width: 250px;
+    color: black;
+    height: 25px
+}
+
+.submitButton {
+    display: block;
+    margin: 1rem auto;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 0.25rem;
+
+}
+
+
+.neon {
+    margin: 1rem auto;
+    animation: neon 3s ease infinite;
+    font-size: x-large;
+    margin-top: 2px;
+}
+
+@keyframes neon {
+
+    0%,
+    100% {
+        text-shadow: 0 0 10px silver, 0 0 20px #c1aec0a8, 0 0 20px #f7caf5a8, 0 0 20px #eedceda8, 0 0 2px #fed128, 2px 2px 2px #806914;
+        color: #f5efcb;
+    }
+
+    50% {
+        text-shadow: 0 0 2px #e0dbdb, 0 0 5px #8e7c7c, 0 0 5px #675e5e, 0 0 5px #f4ccca, 0 0 2px #fcdfde, 4px 4px 2px #40340a;
+        color: #f0e9ed;
+    }
+}
