@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.980955f4.css",
-    "main.js": "/static/js/main.45165a24.js",
-    "static/js/496.cf873d78.chunk.js": "/static/js/496.cf873d78.chunk.js",
-    "static/media/wedani.jpg": "/static/media/wedani.96c31c48081f05f484ce.jpg",
-    "static/media/home3.jpg": "/static/media/home3.0cc42b4427ad3518b299.jpg",
-    "static/media/siril.jpg": "/static/media/siril.27e4c8c9466d65be9cf2.jpg",
-    "static/media/lookMark.jpg": "/static/media/lookMark.6e2567dd30798b274eaf.jpg",
-    "static/media/kerriPerry.jpg": "/static/media/kerriPerry.42be5afc5516b078b5da.jpg",
-    "static/media/harpa.jpg": "/static/media/harpa.434c5613b0e45f28cffe.jpg",
-    "static/media/home1.jpg": "/static/media/home1.78d5633cf7704f9812be.jpg",
-    "static/media/home2.jpg": "/static/media/home2.4b522429fa91a8bf61af.jpg",
-    "static/media/furniture1.jpg": "/static/media/furniture1.9111d47cab9474726c4e.jpg",
-    "static/media/macbook.jpg": "/static/media/macbook.7de0bbfbee852257bc90.jpg",
-    "static/media/kidswear1.jpg": "/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
-    "index.html": "/index.html",
-    "main.980955f4.css.map": "/static/css/main.980955f4.css.map",
-    "main.45165a24.js.map": "/static/js/main.45165a24.js.map",
-    "496.cf873d78.chunk.js.map": "/static/js/496.cf873d78.chunk.js.map"
+    "main.css": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css",
+    "main.js": "/Shop_Spectrum_Firebase_Deploy/static/js/main.3134f9d4.js",
+    "static/js/496.cf873d78.chunk.js": "/Shop_Spectrum_Firebase_Deploy/static/js/496.cf873d78.chunk.js",
+    "static/media/wedani.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/wedani.96c31c48081f05f484ce.jpg",
+    "static/media/home3.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home3.0cc42b4427ad3518b299.jpg",
+    "static/media/siril.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/siril.27e4c8c9466d65be9cf2.jpg",
+    "static/media/lookMark.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/lookMark.6e2567dd30798b274eaf.jpg",
+    "static/media/kerriPerry.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/kerriPerry.42be5afc5516b078b5da.jpg",
+    "static/media/harpa.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/harpa.434c5613b0e45f28cffe.jpg",
+    "static/media/home1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home1.78d5633cf7704f9812be.jpg",
+    "static/media/home2.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home2.4b522429fa91a8bf61af.jpg",
+    "static/media/furniture1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/furniture1.9111d47cab9474726c4e.jpg",
+    "static/media/macbook.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/macbook.7de0bbfbee852257bc90.jpg",
+    "static/media/kidswear1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
+    "index.html": "/Shop_Spectrum_Firebase_Deploy/index.html",
+    "main.980955f4.css.map": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css.map",
+    "main.3134f9d4.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/main.3134f9d4.js.map",
+    "496.cf873d78.chunk.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/496.cf873d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.980955f4.css",
-    "static/js/main.45165a24.js"
+    "static/js/main.3134f9d4.js"
   ]
 }
