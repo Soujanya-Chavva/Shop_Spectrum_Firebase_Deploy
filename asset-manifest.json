@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css",
-    "main.js": "/Shop_Spectrum_Firebase_Deploy/static/js/main.b7ef01c1.js",
-    "static/js/496.4b67afb9.chunk.js": "/Shop_Spectrum_Firebase_Deploy/static/js/496.4b67afb9.chunk.js",
+    "main.js": "/Shop_Spectrum_Firebase_Deploy/static/js/main.e6989e75.js",
+    "static/js/496.f896d59b.chunk.js": "/Shop_Spectrum_Firebase_Deploy/static/js/496.f896d59b.chunk.js",
     "static/media/wedani.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/wedani.96c31c48081f05f484ce.jpg",
     "static/media/home3.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home3.0cc42b4427ad3518b299.jpg",
     "static/media/siril.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/siril.27e4c8c9466d65be9cf2.jpg",
@@ -16,11 +16,11 @@
     "static/media/kidswear1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
     "index.html": "/Shop_Spectrum_Firebase_Deploy/index.html",
     "main.980955f4.css.map": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css.map",
-    "main.b7ef01c1.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/main.b7ef01c1.js.map",
-    "496.4b67afb9.chunk.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/496.4b67afb9.chunk.js.map"
+    "main.e6989e75.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/main.e6989e75.js.map",
+    "496.f896d59b.chunk.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/496.f896d59b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.980955f4.css",
-    "static/js/main.b7ef01c1.js"
+    "static/js/main.e6989e75.js"
   ]
 }
