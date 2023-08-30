@@ -1,4 +1,8 @@
 {
+  "homepage":"http://Soujanya-Chavva.github.io/Shop_Spectrum_Firebase_Deploy",
+  "name": "Shop_Spectrum_Firebase_Deploy",
+  "version": "0.1.0",
+  "private":"true",
   
   "dependencies": {
   
@@ -67,7 +71,9 @@
   "scripts": {
   
     
-  "start": "react-scripts start",
+    "start": "concurrently \"npm run start-react\" \"npm run start-server\"",
+    "start-react": "react-scripts start",
+    "start-server": "node src/server.js",
   
     
   "predeploy": "npm run build",
