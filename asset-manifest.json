@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css",
-    "main.js": "/Shop_Spectrum_Firebase_Deploy/static/js/main.b7ef01c1.js",
-    "static/js/496.4b67afb9.chunk.js": "/Shop_Spectrum_Firebase_Deploy/static/js/496.4b67afb9.chunk.js",
-    "static/media/wedani.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/wedani.96c31c48081f05f484ce.jpg",
-    "static/media/home3.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home3.0cc42b4427ad3518b299.jpg",
-    "static/media/siril.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/siril.27e4c8c9466d65be9cf2.jpg",
-    "static/media/lookMark.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/lookMark.6e2567dd30798b274eaf.jpg",
-    "static/media/kerriPerry.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/kerriPerry.42be5afc5516b078b5da.jpg",
-    "static/media/harpa.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/harpa.434c5613b0e45f28cffe.jpg",
-    "static/media/home1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home1.78d5633cf7704f9812be.jpg",
-    "static/media/home2.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/home2.4b522429fa91a8bf61af.jpg",
-    "static/media/furniture1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/furniture1.9111d47cab9474726c4e.jpg",
-    "static/media/macbook.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/macbook.7de0bbfbee852257bc90.jpg",
-    "static/media/kidswear1.jpg": "/Shop_Spectrum_Firebase_Deploy/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
-    "index.html": "/Shop_Spectrum_Firebase_Deploy/index.html",
-    "main.980955f4.css.map": "/Shop_Spectrum_Firebase_Deploy/static/css/main.980955f4.css.map",
-    "main.b7ef01c1.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/main.b7ef01c1.js.map",
-    "496.4b67afb9.chunk.js.map": "/Shop_Spectrum_Firebase_Deploy/static/js/496.4b67afb9.chunk.js.map"
+    "main.css": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/css/main.980955f4.css",
+    "main.js": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/js/main.e804c765.js",
+    "static/js/496.4b67afb9.chunk.js": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/js/496.4b67afb9.chunk.js",
+    "static/media/wedani.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/wedani.96c31c48081f05f484ce.jpg",
+    "static/media/home3.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/home3.0cc42b4427ad3518b299.jpg",
+    "static/media/siril.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/siril.27e4c8c9466d65be9cf2.jpg",
+    "static/media/lookMark.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/lookMark.6e2567dd30798b274eaf.jpg",
+    "static/media/kerriPerry.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/kerriPerry.42be5afc5516b078b5da.jpg",
+    "static/media/harpa.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/harpa.434c5613b0e45f28cffe.jpg",
+    "static/media/home1.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/home1.78d5633cf7704f9812be.jpg",
+    "static/media/home2.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/home2.4b522429fa91a8bf61af.jpg",
+    "static/media/furniture1.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/furniture1.9111d47cab9474726c4e.jpg",
+    "static/media/macbook.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/macbook.7de0bbfbee852257bc90.jpg",
+    "static/media/kidswear1.jpg": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
+    "index.html": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/index.html",
+    "main.980955f4.css.map": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/css/main.980955f4.css.map",
+    "main.e804c765.js.map": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/js/main.e804c765.js.map",
+    "496.4b67afb9.chunk.js.map": "/Soujanya-Chavva/Shop_Spectrum_Firebase_Deploy.git/static/js/496.4b67afb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.980955f4.css",
-    "static/js/main.b7ef01c1.js"
+    "static/js/main.e804c765.js"
   ]
 }
