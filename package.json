@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Soujanya-chavva.github.io/Shop_Spectrum_Firebase_Deploy",
+  "homepage":"http://Soujanya-Chavva.github.io/Shop_Spectrum_Firebase_Deploy",
   "dependencies": {
     "@apollo/client": "^3.8.1",
     "apollo-server-express": "^3.12.0",
