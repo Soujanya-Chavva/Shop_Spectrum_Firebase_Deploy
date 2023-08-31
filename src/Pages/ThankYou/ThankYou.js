@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { useQuery, gql,  } from '@apollo/client';
 import { BsCartCheck, BsFillBagCheckFill } from "react-icons/bs"
 import './ThankYou.css'
-//thank you
+
 const GET_ORDERS_BY_USER_ID = gql`
   query GetOrdersByUserId($user_id: Int!) {
     getOrdersByUserId(user_id: $user_id) {
