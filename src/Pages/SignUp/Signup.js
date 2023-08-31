@@ -6,7 +6,6 @@ import './Signup.css'
 
 
 
-//this is SignUp page
 const REGISTER_USER = gql`
 mutation RegisterUser($username: String!, $email: String!, $password: String!, $user_address: String!) {
   registerUser(username: $username, email: $email, password: $password, user_address: $user_address) {
