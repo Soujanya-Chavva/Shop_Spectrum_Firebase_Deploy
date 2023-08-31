@@ -1,7 +1,6 @@
 import React, { useState,  } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useQuery, gql,  } from '@apollo/client';
-import Modal from 'react-modal';
 import { BsCartCheck, BsFillBagCheckFill } from "react-icons/bs"
 import './ThankYou.css'
 
