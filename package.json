@@ -1,8 +1,8 @@
 {
-  "homepage": "https://soujanya-chavva.github.io/Shop_Spectrum_Firebase_Deploy/",
+  
   "name": "shop-spectrum-firebase-deploy",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@apollo/client": "^3.8.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -28,9 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "concurrently \"npm run start-react\" \"npm run start-server\"",
-    "start-react": "react-scripts start",
-    "start-server": "node src/server.js",
+    "start":"react-scripts start",
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
