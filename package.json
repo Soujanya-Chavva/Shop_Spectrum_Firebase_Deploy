@@ -2,7 +2,7 @@
   "homepage": "https://soujanya-chavva.github.io/Shop_Spectrum_Firebase_Deploy",
   "name": "shop-spectrum-firebase-deploy",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@apollo/client": "^3.8.1",
     "@testing-library/jest-dom": "^5.17.0",
